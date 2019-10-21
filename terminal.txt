@@ -1,0 +1,6 @@
+cd ../ it takes u one level up
+touch filename.ext creates a new file
+mv filename targetfolder to move a file
+less filename.ext view the last part of the file
+mkdir foldername to make a new directory 
+dclsnd
